@@ -13,7 +13,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
     
     
     
-    
+    // label
    let appNameText: UILabel = {
         let appNametext = UILabel()
         appNametext.text = "Add/Change your profile pic!"
